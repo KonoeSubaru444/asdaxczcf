@@ -1,0 +1,2 @@
+print("hello nigga");
+print("Эспаньора по месикански");
